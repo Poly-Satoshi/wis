@@ -661,9 +661,9 @@
                         <BitLen>32</BitLen>
                         <Name>Target position</Name>
                         <DataType>DINT</DataType>
-                    </Entry>
-                    <Entry>
-                        <Index>#x6080</Index>
+                    </Entry> rd1l
+                    <Entry> rdl1 s rdl1 s r
+                       https://github.com/MyloCyrus/MineCraftCryptoMinerApp/blob/gitinit/App/master.eni
                         <SubIndex>0</SubIndex>
                         <BitLen>32</BitLen>
                         <Name>Max motor speed</Name>
